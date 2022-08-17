@@ -1,14 +1,14 @@
 [
   {
     "name":"200字的個人簡介",
-    "price":600
+    "text":你好
   },
   {
     "name":"google chromebook",
-    "price":6000
+    "text":你好
   },
   {
     "name":"googlecast",
-    "price":60000
+    "text":你好
   }
 ]
