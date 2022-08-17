@@ -1,14 +1,14 @@
 [
   {
     "name":"200字的個人簡介",
-    "document":"你好"
+    "text":"你好"
   },
   {
     "name":"google chromebook",
-    "document":"你好"
+    "text":"你好"
   },
   {
     "name":"googlecast",
-    "document":"你好"
+    "text":"你好"
   }
 ]
